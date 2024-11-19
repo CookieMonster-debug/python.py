@@ -26,3 +26,4 @@ for i in range(versuche):
 else:
     # Wenn alle Versuche verbraucht sind
     print(f"Game over! Die geheime Zahl war {geheime_zahl}. Käpt’n Hook lacht dich aus!")
+5
